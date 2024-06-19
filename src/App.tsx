@@ -12,8 +12,6 @@ const App = () => {
         housing: ''
     });
     
-    console.log(selectInfo);
-
     return (
         <>
             <Form>
