@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/anzor1qqqqq.github.io/Select/static/js/main.13e6b9e5.js",
-    "static/js/453.13557df5.chunk.js": "/anzor1qqqqq.github.io/Select/static/js/453.13557df5.chunk.js",
-    "index.html": "/anzor1qqqqq.github.io/Select/index.html",
-    "main.13e6b9e5.js.map": "/anzor1qqqqq.github.io/Select/static/js/main.13e6b9e5.js.map",
-    "453.13557df5.chunk.js.map": "/anzor1qqqqq.github.io/Select/static/js/453.13557df5.chunk.js.map"
+    "main.js": "/Select/static/js/main.6430c3f4.js",
+    "static/js/453.13557df5.chunk.js": "/Select/static/js/453.13557df5.chunk.js",
+    "index.html": "/Select/index.html",
+    "main.6430c3f4.js.map": "/Select/static/js/main.6430c3f4.js.map",
+    "453.13557df5.chunk.js.map": "/Select/static/js/453.13557df5.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.13e6b9e5.js"
+    "static/js/main.6430c3f4.js"
   ]
 }
