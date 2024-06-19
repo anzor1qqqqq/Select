@@ -1,6 +1,7 @@
 {
   "name": "learning-react",
   "version": "0.1.0",
+  "homepage": "https://github_anzor1qqqqq.github.io/Select",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "7.21.11",
@@ -16,7 +17,9 @@
     "dev": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
